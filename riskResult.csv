@@ -1,0 +1,76 @@
+﻿ID,Start time,Completion time,"Provide a ""Description of the Risk""",Select its severity,Select its Probability,Category
+1,1/7/23 12:03,1/7/23 12:11,Internal employee sabotaging or leaking confidential data,Major,Unlikely,People
+2,1/12/23 9:51,1/12/23 9:54,Sensitive data over home network (potentially unsecured),Major,Frequent,Network
+3,1/12/23 10:16,1/12/23 10:16,There is no security system protecting the house.,Moderate,Unlikely,Physical
+4,1/12/23 10:13,1/12/23 10:16,Natural disaster in florida,Emergency,Frequent,Disaster
+5,1/12/23 10:16,1/12/23 10:16,Hurricane,Emergency,Likely,Disaster
+6,1/12/23 10:16,1/12/23 10:16,Natural disaster,Moderate,Unlikely,Disaster
+7,1/12/23 10:16,1/12/23 10:16,Hurricane,Emergency,Unlikely,Disaster
+8,1/12/23 10:16,1/12/23 10:16,Baseball smashing through a window,Minor,Unlikely,Physical
+9,1/12/23 9:51,1/12/23 10:17,The homeowners face a risk of flood or hurricane damage because they bought a house in Florida. The homeowners can have influence over this by preparing ahead of a hurricane or acknowledging their location in a flood zone (if applicable).,Emergency,Frequent,Disaster
+10,1/12/23 10:16,1/12/23 10:17,Hurricane ,Emergency,Probable,Disaster
+11,1/12/23 10:12,1/12/23 10:17,theif,Major,Probable,Physical
+12,1/12/23 9:56,1/12/23 10:17,Robbery/Break in,Major,Unlikely,Physical
+13,1/12/23 10:16,1/12/23 10:17,"Home Security - Theft, locks, etc",Major,Probable,Physical
+14,1/12/23 9:54,1/12/23 10:17,Home robbery,Major,Unlikely,Physical
+15,1/12/23 10:16,1/12/23 10:18,Vulnerable Network,Moderate,Likely,Network
+16,1/12/23 10:17,1/12/23 10:18,The Power Line - How the electricity is distributed. ,Emergency,Likely,Physical
+17,1/12/23 10:16,1/12/23 10:18,Hurricane,Major,Probable,Disaster
+18,1/12/23 10:12,1/12/23 10:19,Theft of Physical Data Store by an Intruder,Major,Probable,Physical
+19,1/12/23 10:16,1/12/23 10:19,Getting hit by a hurricane in SWFL,Major,Probable,Disaster
+20,1/12/23 10:18,1/12/23 10:21,A home robbery/burglary,Emergency,Unlikely,Physical
+21,1/12/23 10:23,1/12/23 10:23,Power line being cut,Emergency,Probable,Physical
+22,1/12/23 10:16,1/12/23 10:25,Man-in-the-middle attack by hackers,Major,Probable,Network
+23,1/12/23 10:16,1/12/23 10:26,Building Maintenance,Major,Unlikely,Maintenance
+24,1/12/23 10:12,1/12/23 10:29,Flooding,Emergency,Probable,Disaster
+25,1/12/23 10:28,1/12/23 10:31,breaking and entering,Major,Likely,Physical
+26,1/12/23 10:28,1/12/23 10:31,Fire where hardware is located,Emergency,Likely,Physical
+27,1/12/23 10:31,1/12/23 10:36,How easy for program to be attack,Major,Frequent,Software
+28,1/12/23 10:46,1/12/23 10:46,Home Security,Major,Likely,Physical
+29,1/12/23 11:04,1/12/23 11:08,Wifi Disconnecting/down,Moderate,Likely,Network
+30,1/12/23 11:00,1/12/23 11:34,Not having a white list on a private server,Major,Likely,Network
+31,1/12/23 11:34,1/12/23 11:35,theft,Moderate,Unlikely,Physical
+32,1/12/23 11:09,1/12/23 11:42,Security System of home,Major,Likely,Physical
+33,1/12/23 10:35,1/12/23 11:42,"Myhouse has nobody in it, leaving it undefended.",Minor,Probable,Physical
+34,1/12/23 10:31,1/12/23 11:43,Hurricane damaging critical infrastructure.,Major,Probable,Disaster
+35,1/12/23 11:32,1/12/23 11:43,Unencrypted Sensitive Data within the home,Major,Probable,Network
+36,1/12/23 11:33,1/12/23 11:44,My project getting breached and the program being erased.,Major,Likely,Network
+37,1/12/23 11:43,1/12/23 11:44,My home internet goes down causing me to be unable to submit class assignments,Minor,Probable,Network
+38,1/12/23 10:53,1/12/23 11:44,Unsecure network allows a breach into home network allowing information to be leaked ,Major,Unlikely,Network
+39,1/12/23 11:42,1/12/23 11:44,Power is shut down causing corruption of sensitive data.,Major,Probable,Physical
+40,1/12/23 11:43,1/12/23 11:44,Physical loss of sensitive data due to improper backups,Major,Probable,Software
+41,1/12/23 11:05,1/12/23 11:44,Natural Disaster disconnecting your homes internet connection,Major,Probable,Disaster
+42,1/12/23 10:36,1/12/23 11:44,A break in from a burglar ,Emergency,Likely,Physical
+43,1/12/23 11:43,1/12/23 11:44,Natural Disaster (Hurricane),Major,Frequent,Disaster
+44,1/12/23 11:43,1/12/23 11:45,"A data breach/leak, from your network or security provider, that exposes your information.",Major,Unlikely,Network
+45,1/12/23 11:42,1/12/23 11:45,A hurricane hits the town,Major,Probable,Disaster
+46,1/12/23 11:42,1/12/23 11:45,Cat 5 Hurricane ,Emergency,Unlikely,Disaster
+47,1/12/23 10:51,1/12/23 11:45,Your credit card information getting stolen,Emergency,Rare,Network
+48,1/12/23 11:44,1/12/23 11:45,Data Breach/WIFI gets hacked,Major,Probable,Network
+49,1/12/23 11:45,1/12/23 11:45,Hurricane causing damage in SWFL,Major,Probable,Disaster
+50,1/12/23 11:43,1/12/23 11:45,"No security system (cameras, sensors, network, etc.)",Major,Frequent,Physical
+51,1/12/23 11:43,1/12/23 11:45,Some one breaking in and stealing stuff,Moderate,Unlikely,Physical
+52,1/12/23 11:42,1/12/23 11:45,Somebody breaks into the house and takes valuable items. ,Emergency,Unlikely,Physical
+53,1/12/23 10:38,1/12/23 11:45,Leaving a stove turned on and causing a fire.,Emergency,Likely,People
+54,1/12/23 11:44,1/12/23 11:45,Natural Disaster,Emergency,Probable,Physical
+55,1/12/23 11:42,1/12/23 11:45,Robbery. An intruder invades your home and steals valuables.,Major,Probable,Physical
+56,1/12/23 11:44,1/12/23 11:45,Network Breach causing breach of information ,Major,Probable,Network
+57,1/12/23 11:43,1/12/23 11:45,Earthquake impacts house,Major,Unlikely,Disaster
+58,1/12/23 11:43,1/12/23 11:45,A risk would be home security. People outside of the house will not know if something happened. ,Major,Probable,People
+59,1/12/23 10:56,1/12/23 11:45,Natural disasters damaging powerlines to leave homes without electricity and connectivity.,Major,Probable,Disaster
+60,1/12/23 11:43,1/12/23 11:46,Leaving door unlocked after leaving home,Moderate,Likely,People
+61,1/12/23 11:46,1/12/23 11:46,Leaving computer logged in so you lose critical/sensitive data,Moderate,Probable,People
+62,1/12/23 11:46,1/12/23 11:46,Plumbing issues causing flooding,Moderate,Probable,Maintenance
+63,1/12/23 11:43,1/12/23 11:47,Placing heirlooms out in the open,Minor,Likely,Physical
+64,1/12/23 11:49,1/12/23 11:59,"The risk of a network attack that can either disrupt a machine/network system or have your essential data encrypted or stolen. Potentially resulting in the perpetrators demanding large sums of money without any guarantee that by complying with their demands, they will ultimately decrypt, not leak, or not sell that data.",Emergency,Unlikely,Network
+65,1/12/23 13:09,1/12/23 13:12,a risk would be if a company has an unsecure network without firewall ,Major,Likely,Network
+66,1/12/23 10:16,1/12/23 13:31,Electrical Outage (Within the neighborhood/Excluding businesses),Moderate,Likely,Physical
+67,1/12/23 15:28,1/12/23 15:31,One risk is that a hurricane could end up damaging your home,Emergency,Unlikely,Disaster
+68,1/12/23 10:16,1/12/23 17:41,"I have a loft bed in my room, so my ""risk"" will be the possibility that I fall off of the side in my sleep.",Major,Unlikely,People
+69,1/12/23 18:02,1/12/23 18:04,Empty house for 3 days of the week,Moderate,Frequent,Physical
+70,1/12/23 18:46,1/12/23 18:47,A risk for the in class assignment is a house break in and robbery. ,Major,Unlikely,Physical
+71,1/12/23 10:16,1/12/23 21:43,using an unsecured home network when working remotely allowing for threat to sensitive information,Emergency,Frequent,Network
+72,1/12/23 22:50,1/12/23 22:52,breach of home/business building by intruders,Major,Unlikely,Physical
+73,1/12/23 23:35,1/12/23 23:36,Natural disaster ,Emergency,Likely,Disaster
+74,1/12/23 23:36,1/12/23 23:39,"Risk of a natural desaster, such as a hurricane.",Emergency,Unlikely,Disaster
+75,1/12/23 10:12,1/12/23 10:19,Theft of Digital Data from an Intruder,Major,Probable,Network
